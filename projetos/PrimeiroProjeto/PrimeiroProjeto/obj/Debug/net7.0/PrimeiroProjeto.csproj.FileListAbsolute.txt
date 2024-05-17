@@ -1,0 +1,15 @@
+D:\Estudos\CSharpUdemy\projetos\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net7.0\PrimeiroProjeto.exe
+D:\Estudos\CSharpUdemy\projetos\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net7.0\PrimeiroProjeto.deps.json
+D:\Estudos\CSharpUdemy\projetos\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net7.0\PrimeiroProjeto.runtimeconfig.json
+D:\Estudos\CSharpUdemy\projetos\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net7.0\PrimeiroProjeto.dll
+D:\Estudos\CSharpUdemy\projetos\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net7.0\PrimeiroProjeto.pdb
+D:\Estudos\CSharpUdemy\projetos\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net7.0\PrimeiroProjeto.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos\CSharpUdemy\projetos\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net7.0\PrimeiroProjeto.AssemblyInfoInputs.cache
+D:\Estudos\CSharpUdemy\projetos\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net7.0\PrimeiroProjeto.AssemblyInfo.cs
+D:\Estudos\CSharpUdemy\projetos\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net7.0\PrimeiroProjeto.csproj.CoreCompileInputs.cache
+D:\Estudos\CSharpUdemy\projetos\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net7.0\PrimeiroProjeto.sourcelink.json
+D:\Estudos\CSharpUdemy\projetos\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net7.0\PrimeiroProjeto.dll
+D:\Estudos\CSharpUdemy\projetos\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net7.0\refint\PrimeiroProjeto.dll
+D:\Estudos\CSharpUdemy\projetos\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net7.0\PrimeiroProjeto.pdb
+D:\Estudos\CSharpUdemy\projetos\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net7.0\PrimeiroProjeto.genruntimeconfig.cache
+D:\Estudos\CSharpUdemy\projetos\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net7.0\ref\PrimeiroProjeto.dll
