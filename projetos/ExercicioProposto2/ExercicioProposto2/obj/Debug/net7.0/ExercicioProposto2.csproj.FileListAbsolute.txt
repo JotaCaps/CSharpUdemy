@@ -1,0 +1,15 @@
+D:\Estudos\CSharpUdemy\projetos\ExercicioProposto2\ExercicioProposto2\bin\Debug\net7.0\ExercicioProposto2.exe
+D:\Estudos\CSharpUdemy\projetos\ExercicioProposto2\ExercicioProposto2\bin\Debug\net7.0\ExercicioProposto2.deps.json
+D:\Estudos\CSharpUdemy\projetos\ExercicioProposto2\ExercicioProposto2\bin\Debug\net7.0\ExercicioProposto2.runtimeconfig.json
+D:\Estudos\CSharpUdemy\projetos\ExercicioProposto2\ExercicioProposto2\bin\Debug\net7.0\ExercicioProposto2.dll
+D:\Estudos\CSharpUdemy\projetos\ExercicioProposto2\ExercicioProposto2\bin\Debug\net7.0\ExercicioProposto2.pdb
+D:\Estudos\CSharpUdemy\projetos\ExercicioProposto2\ExercicioProposto2\obj\Debug\net7.0\ExercicioProposto2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos\CSharpUdemy\projetos\ExercicioProposto2\ExercicioProposto2\obj\Debug\net7.0\ExercicioProposto2.AssemblyInfoInputs.cache
+D:\Estudos\CSharpUdemy\projetos\ExercicioProposto2\ExercicioProposto2\obj\Debug\net7.0\ExercicioProposto2.AssemblyInfo.cs
+D:\Estudos\CSharpUdemy\projetos\ExercicioProposto2\ExercicioProposto2\obj\Debug\net7.0\ExercicioProposto2.csproj.CoreCompileInputs.cache
+D:\Estudos\CSharpUdemy\projetos\ExercicioProposto2\ExercicioProposto2\obj\Debug\net7.0\ExercicioProposto2.sourcelink.json
+D:\Estudos\CSharpUdemy\projetos\ExercicioProposto2\ExercicioProposto2\obj\Debug\net7.0\ExercicioProposto2.dll
+D:\Estudos\CSharpUdemy\projetos\ExercicioProposto2\ExercicioProposto2\obj\Debug\net7.0\refint\ExercicioProposto2.dll
+D:\Estudos\CSharpUdemy\projetos\ExercicioProposto2\ExercicioProposto2\obj\Debug\net7.0\ExercicioProposto2.pdb
+D:\Estudos\CSharpUdemy\projetos\ExercicioProposto2\ExercicioProposto2\obj\Debug\net7.0\ExercicioProposto2.genruntimeconfig.cache
+D:\Estudos\CSharpUdemy\projetos\ExercicioProposto2\ExercicioProposto2\obj\Debug\net7.0\ref\ExercicioProposto2.dll
