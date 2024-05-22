@@ -1,0 +1,15 @@
+D:\Estudos\CSharpUdemy\projetos\ExercicioProposto_6\ExercicioProposto_6\bin\Debug\net7.0\ExercicioProposto_6.exe
+D:\Estudos\CSharpUdemy\projetos\ExercicioProposto_6\ExercicioProposto_6\bin\Debug\net7.0\ExercicioProposto_6.deps.json
+D:\Estudos\CSharpUdemy\projetos\ExercicioProposto_6\ExercicioProposto_6\bin\Debug\net7.0\ExercicioProposto_6.runtimeconfig.json
+D:\Estudos\CSharpUdemy\projetos\ExercicioProposto_6\ExercicioProposto_6\bin\Debug\net7.0\ExercicioProposto_6.dll
+D:\Estudos\CSharpUdemy\projetos\ExercicioProposto_6\ExercicioProposto_6\bin\Debug\net7.0\ExercicioProposto_6.pdb
+D:\Estudos\CSharpUdemy\projetos\ExercicioProposto_6\ExercicioProposto_6\obj\Debug\net7.0\ExercicioProposto_6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos\CSharpUdemy\projetos\ExercicioProposto_6\ExercicioProposto_6\obj\Debug\net7.0\ExercicioProposto_6.AssemblyInfoInputs.cache
+D:\Estudos\CSharpUdemy\projetos\ExercicioProposto_6\ExercicioProposto_6\obj\Debug\net7.0\ExercicioProposto_6.AssemblyInfo.cs
+D:\Estudos\CSharpUdemy\projetos\ExercicioProposto_6\ExercicioProposto_6\obj\Debug\net7.0\ExercicioProposto_6.csproj.CoreCompileInputs.cache
+D:\Estudos\CSharpUdemy\projetos\ExercicioProposto_6\ExercicioProposto_6\obj\Debug\net7.0\ExercicioProposto_6.sourcelink.json
+D:\Estudos\CSharpUdemy\projetos\ExercicioProposto_6\ExercicioProposto_6\obj\Debug\net7.0\ExercicioProposto_6.dll
+D:\Estudos\CSharpUdemy\projetos\ExercicioProposto_6\ExercicioProposto_6\obj\Debug\net7.0\refint\ExercicioProposto_6.dll
+D:\Estudos\CSharpUdemy\projetos\ExercicioProposto_6\ExercicioProposto_6\obj\Debug\net7.0\ExercicioProposto_6.pdb
+D:\Estudos\CSharpUdemy\projetos\ExercicioProposto_6\ExercicioProposto_6\obj\Debug\net7.0\ExercicioProposto_6.genruntimeconfig.cache
+D:\Estudos\CSharpUdemy\projetos\ExercicioProposto_6\ExercicioProposto_6\obj\Debug\net7.0\ref\ExercicioProposto_6.dll

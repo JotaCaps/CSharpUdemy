@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "AxfYRtfLsA3ysDsaGYF3ae4qsB0vahVvrontV4P+urvdmZ0kaNLG1d8+pcDNEG2EWDIgTDhPAhl1I1c1WA4kxQ==",
+  "success": true,
+  "projectFilePath": "D:\\Estudos\\CSharpUdemy\\projetos\\ExercicioProposto_6\\ExercicioProposto_6\\ExercicioProposto_6.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joaos\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.15\\microsoft.windowsdesktop.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\joaos\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.15\\microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\joaos\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.15\\microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\joaos\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.15\\microsoft.netcore.app.host.win-x64.7.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
